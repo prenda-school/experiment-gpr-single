@@ -1,5 +1,5 @@
 {
-  "name": "@prenda/experiment-gh-pkgs-1",
+  "name": "@prenda-school/experiment-gh-pkgs-1",
   "version": "1.0.0",
   "description": "Experimenting with GitHub packages, attempt 1.",
   "main": "index.js",
