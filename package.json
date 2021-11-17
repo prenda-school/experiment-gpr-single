@@ -1,0 +1,22 @@
+{
+  "name": "@prenda/experiment-gh-pkgs-1",
+  "version": "1.0.0",
+  "description": "Experimenting with GitHub packages, attempt 1.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prenda-school/experiment-github-packages.git"
+  },
+  "author": "William Kelley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prenda-school/experiment-github-packages/issues"
+  },
+  "homepage": "https://github.com/prenda-school/experiment-github-packages#readme",
+  "publishConfig": {
+    "@prenda-school:registry": "https://npm.pkg.github.com"
+  }
+}
