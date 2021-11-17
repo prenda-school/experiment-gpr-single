@@ -4,7 +4,7 @@ Part of "Experimenting with GitHub Packages".
 This is a repository publishing a single package. ("gpr" = "GitHub Packages registry"; comes from their workflow action)
 
 ### Guide (specific to our organization)
-**Scenario 1:** New respository. 
+**Scenario 1:** New repository. 
   - Follow the "Quickstart" source below. 
     - Where applicable, replace _`YOUR_USERNAME`_ with `@prenda-school`.
     - In Step 8, prefer to use the `"publishConfig"` option instead of the `.npmrc` option.
