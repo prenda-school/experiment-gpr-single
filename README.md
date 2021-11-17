@@ -1,5 +1,5 @@
 # experiment-gpr-single
-Part of "Experimenting with GitHub packages".
+Part of "Experimenting with GitHub Packages".
 
 This is a repository publishing a single package. ("gpr" = "GitHub Packages registry"; comes from their workflow action)
 
