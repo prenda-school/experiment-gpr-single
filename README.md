@@ -11,4 +11,4 @@ Sources:
   - Note: once published, wait a minute for it to appear as a connected package under the repository homepage (and organization profile -> packages tab).
 
 See [a repository publishing multiple packages](https://github.com/prenda-school/experiment-gpr-multiple)
-See [a repository consuming (installing) packages from gpr](https://github.com/prenda-school/experiment-gpr-single-consumer)
+See [a repository consuming (installing) packages from gpr](https://github.com/prenda-school/experiment-gpr-consumer)
