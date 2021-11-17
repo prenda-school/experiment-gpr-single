@@ -1,7 +1,7 @@
 {
-  "name": "@prenda-school/experiment-gh-pkgs-1",
+  "name": "@prenda-school/experiment-gpr-single",
   "version": "1.0.0",
-  "description": "Experimenting with GitHub packages, attempt 1.",
+  "description": "Experimenting with GitHub packages, publishing a single package from a repository.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/prenda-school/experiment-github-packages#readme",
   "publishConfig": {
     "@prenda-school:registry": "https://npm.pkg.github.com"
-  }
+  },
+  "dependencies": {}
 }
