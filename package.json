@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/prenda-school/experiment-gpr-single.git"
+  "repository": "git://github.com/prenda-school/experiment-gpr-single.git",
+  "publishConfig": {
+    "@prenda-school:registry": "https://npm.pkg.github.com"
   },
   "author": "William Kelley",
   "license": "ISC",
@@ -16,8 +16,5 @@
     "url": "https://github.com/prenda-school/experiment-gpr-single/issues"
   },
   "homepage": "https://github.com/prenda-school/experiment-gpr-single#readme",
-  "publishConfig": {
-    "@prenda-school:registry": "https://npm.pkg.github.com"
-  },
   "dependencies": {}
 }
