@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git://github.com/prenda-school/experiment-gpr-single.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prenda-school/experiment-gpr-single.git"
+  },
   "publishConfig": {
     "@prenda-school:registry": "https://npm.pkg.github.com"
   },
